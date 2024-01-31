@@ -1,3 +1,4 @@
 Plik tekstowy na branchu master
 
 Plik tekstowy na branchu 01
+Plik tekstowy na branchu 02
